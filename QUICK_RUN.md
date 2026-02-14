@@ -14,8 +14,6 @@ pip install -r requirements.txt
 ## Step 2: Verify .env File
 Ensure `.env` exists in the root directory with:
 ```
-GITHUB_TOKEN=
-GEMINI_API_KEY=
 ```
 
 ## Step 3: Start the Backend API
@@ -162,4 +160,5 @@ For issues or questions:
 4. Review API documentation at http://localhost:8000/docs
 
 Happy coding! 🚀
+
 
